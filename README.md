@@ -1,5 +1,9 @@
 # 📚  **Book Recommender System** [VIDEO](https://github.com/user-attachments/assets/7f663a5c-930e-49b2-8531-da1da81e4fcd)
 
+![Alt text for the image](Book-Recommender Image.png)
+<img src="Book-Recommender Image.png" alt="Description" width="400">
+
+Book-Recommender Image.png
 
 An end-to-end Machine Learning project that suggests books based on user preferences. Built with a production-grade modular pipeline, containerized with Docker, and deployed on AWS.
 
@@ -121,4 +125,5 @@ Cloud: AWS (EC2)
 
 📧 Contact
 Harsh Kumar [Email](mailto:harshkumar811h@gmail.com)
+
 
